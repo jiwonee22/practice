@@ -10,6 +10,8 @@ public class test {
 		
 		System.out.println("잘부탁드립니다:)");
 		
+		System.out.println("푸시 [TEST]");
+		
 	}
 	
 }
