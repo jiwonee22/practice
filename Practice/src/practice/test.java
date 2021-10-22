@@ -8,6 +8,8 @@ public class test {
 		
 		System.out.println("희희");
 		
+		System.out.println("잘부탁드립니다:)");
+		
 	}
 	
 }
